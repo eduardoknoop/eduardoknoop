@@ -1,11 +1,12 @@
 ## Opa! Eu sou o Eduardo Knoop.
 - Seja muito bem-vindo ao meu perfil! Estou iniciando a carreira de desenvolvedor.
+- Vou começar a usar o Github para salvar meus minis-projetos ou testes que eu vier a fazer para ajudar melhorar meu aprendizado dentro do desenvolvimento.
 - Tenho uma paixão por jogos.
 
 <div>
 <a href="https://github.com/eduardoknoop">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoknoop&layout=compact&langs_count=7&theme=graywhite"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardoknoop&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoknoop&layout=compact&langs_count=7&theme=dark"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardoknoop&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
 
