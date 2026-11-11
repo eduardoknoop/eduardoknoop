@@ -27,5 +27,5 @@
   	<a href="https://steamcommunity.com/id/aSizze/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a> 
 </div>
 
-<img src="https://cdn.discordapp.com/attachments/1243020948651642944/1378997250289565777/f7b4d88c1ab4e5e0945c9188ae23adae.jpg?ex=683ea2c4&is=683d5144&hm=8331be7e31415539f7cb54e292ffc1fe32a5df39b5640c10a1f3665d015017b6" alt="muie anime roxa" width="250" />
+
 
